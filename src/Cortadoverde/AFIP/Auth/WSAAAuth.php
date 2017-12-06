@@ -60,7 +60,7 @@ class WSAAAuth implements AuthService
     private function getClient()
     {
         if ($this->client === null) {
-            $this->client = new \SoapClient(WSAAAuth::URL_PRODUCCION);
+            $this->client = new \SoapClient(WSAAAuth::URL_HOMOLOGACION);
         }
 
         return $this->client;

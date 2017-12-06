@@ -2,7 +2,7 @@
 
 namespace Cortadoverde\AFIP\Auth\Storage;
 
-* Almacén simple de credenciales a disco.
+/* Almacén simple de credenciales a disco.
  *
  * @todo: Poner cosas en un directorio configurable.
  */
