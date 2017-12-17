@@ -1,6 +1,7 @@
 {
     "name": "cortadoverde/afip",
     "minimum-stability": "stable",
+    "version": "1.0.0",
     "description": "Biblioteca para acceder a los webservices de AFIP",
     "license": "MIT",
     "require": {
